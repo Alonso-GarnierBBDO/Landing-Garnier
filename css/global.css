@@ -1,0 +1,19 @@
+/* Styles CSS */
+@import url(./components/loading.css);
+@import url(./components/content.css);
+
+/* Fonts */
+
+@font-face {
+    font-family: N27-Extra-Light;
+    src: url(../fonts/N27-ExtraLight.otf);
+}
+
+@font-face {
+    font-family: N27-Bold;
+    src: url(../fonts/N27-Bold.otf);
+}
+body,
+a{
+    cursor: none;
+}
